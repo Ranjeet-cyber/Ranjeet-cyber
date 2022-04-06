@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ranjeet-singh
-- 👀 I’m interested in Android Developing and web Designing
+- 👀 I’m interested in Android Development and web Designing
 - 🌱 I’m currently learning Java And Python Programming language 
 - 💞️ I’m looking to collaborate on Digital and Afflicate Marketing
 - 📫 How to reach me www.teknologyupdate.com
